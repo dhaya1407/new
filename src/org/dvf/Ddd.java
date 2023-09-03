@@ -23,6 +23,11 @@ public class Ddd {
 		System.out.println("karthik");
 	
 	}
+	private void m6() {
+
+		System.out.println("gautam");
+	
+	}
 
 	
 	
@@ -34,6 +39,7 @@ public class Ddd {
 		c.m2();
 		c.m3();
 		c.m4();
+		c.m6();
 		
 
 		
