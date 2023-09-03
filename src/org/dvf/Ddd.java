@@ -24,6 +24,12 @@ public class Ddd {
 	
 	}
 
+	private void m5() {
+
+		System.out.println("kishore");
+	
+	}
+
 	
 	
 	
@@ -34,6 +40,7 @@ public class Ddd {
 		c.m2();
 		c.m3();
 		c.m4();
+		c.m5();
 		
 
 		
